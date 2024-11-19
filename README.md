@@ -12,4 +12,3 @@ Do not use for commercial purposes
 确保你的vscode允许相对路径，
 确保你的Pillow库存在，
 如果添加新字体，请在test.py文件中修改，
-请勿用于商业用途
